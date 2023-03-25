@@ -1,2 +1,2 @@
-# SkillBuzz
+# SocialBuzz
 Data Analytics and Visualization
