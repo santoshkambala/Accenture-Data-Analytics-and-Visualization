@@ -1,3 +1,5 @@
+![image](https://github.com/santoshkambala/SocialBuzz/assets/128189574/95ff0138-7dd0-420f-b24e-f50080750142)
+
 # Accenture Data Analytics and Visualization - Virtual Internship
 
 I engaged in a project involving data analysis and visualization while working as a Data Analyst at Accenture. In a diverse team, each with unique roles. We got a project for client "Social Buzz (Client industry: Social media & content creation)". This project provides a chance for me to demonstrate my expertise in data analysis and visualization, which I believe could contribute to my career advancement. This exciting opportunity aligns perfectly with my aspirations a enables me to display my skills effectively within the team.
