@@ -67,18 +67,25 @@ First: Open the three data sets below
  - [Reactions](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664298375459/Reactions.csv)
  - [Content](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664298350004/Content.csv)
 
-**Second**: Cleaned the data by:
+**Second**: Cleaned the dataset by:
   -Removing rows that have values that are missing,
   -Changing the data type of some values within a column, and
   - Removing columns that are not relevant to this task.
     -Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
+[Cleaned Dataset](SocialBuzz.xlsx)
 
 ### Data Modelling
 [Data Model file](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664297834541/Data%20model.pdf)
 
 ## **Task - 3: Data Visualization & Storytelling**
+Make the Powerpoint presentation as per the given template
+
+Charts Involved :
+  Pie Chart
+  Bar Chart
+
+Powerpoint Presentation : [PPT](SocialBuzz.pptx.pptx)
 
 ## **Task - 4: Present to the Client**
-
-By doing so, I showcased skills in data quality improvement, visualization, and project management during the virtual experience.
+Present powerpoint presentation to the client and deliver the insights of your analysis
