@@ -8,12 +8,6 @@ Result: Through my efforts, the dataset became more accurate for analysis. The v
 ## **Task - 1: Project Understanding**
 The team has been assigned a new project for a client called Social Buzz
 
-### Key roles and responsibilities of a Data Analyst
-  - The Business refers to the client and internal team members who won’t be involved in detailed data analysis.
-  - They rely on our analysis to make strategic business decisions.
-  - Importantly, not everyone will have a strong understanding of data. Our job is to communicate your data findings simply and clearly for everyone to understand.
-  - The Data refers to the relevant data sources that we will clean, process, and use to generate interesting insights for the business.
-
 ## The brief from Social Buzz
 About Client : [Social Buzz](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664296994014/Data_Analytics%20Client%20Brief.pdf)
 
@@ -33,19 +27,26 @@ I was assigned to address missing data, outliers, and data quality concerns in a
   - Communication with previous IPO companies within our client base for reference stories - Analysis of sample data sets with visualizations
   - Full documentation of the process that we can guide them through for IPO
 
+### Key roles and responsibilities of a Data Analyst
+  - The Business refers to the client and internal team members who won’t be involved in detailed data analysis.
+  - They rely on our analysis to make strategic business decisions.
+  - Importantly, not everyone will have a strong understanding of data. Our job is to communicate your data findings simply and clearly for everyone to understand.
+  - The Data refers to the relevant data sources that we will clean, process, and use to generate interesting insights for the business.
+
+
 **Accenture Project Team**
 ![image](https://github.com/santoshkambala/SocialBuzz/assets/128189574/2d984fbb-b54b-435c-a60c-964e8becde09)
 
 
 ## **Task - 2: Data Cleaning & Modeling**
 The client has sent through:
-    7 data sets - each data set contains different columns and values
-    A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+  - 7 data sets - each data set contains different columns and values
+  - A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
 
 There is a lot of information here and it’s easy to get lost in the data. So, to make sure you are using the right data to answer the business questions we’ll follow these steps:
- - Requirements gathering
- - Data cleaning
- - Data modeling
+ 1. Requirements gathering
+ 1. Data cleaning
+ 1. Data modeling
 
 ### Requirements gathering: 
 7 datasets and a data model. Often you won’t need all these datasets to find what you’re looking for. 
@@ -68,24 +69,22 @@ First: Open the three data sets below
  - [Content](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664298350004/Content.csv)
 
 **Second**: Cleaned the dataset by:
-  -Removing rows that have values that are missing,
-  -Changing the data type of some values within a column, and
+  - Removing rows that have values that are missing,
+  - Changing the data type of some values within a column, and
   - Removing columns that are not relevant to this task.
-    -Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+    - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
-[Cleaned Dataset](SocialBuzz.xlsx)
+[Download Cleaned Dataset](SocialBuzz.xlsx)
 
 ### Data Modelling
-[Data Model file](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664297834541/Data%20model.pdf)
+![image](https://github.com/santoshkambala/SocialBuzz/assets/128189574/80bbe861-e19b-4676-ab3f-8b15e2d673a0)
+
+[Download Data Model file](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664297834541/Data%20model.pdf)
 
 ## **Task - 3: Data Visualization & Storytelling**
 Make the Powerpoint presentation as per the given template
 
-Charts Involved :
-  Pie Chart
-  Bar Chart
-
-Powerpoint Presentation : [PPT](SocialBuzz.pptx.pptx)
+Powerpoint Presentation : [Download File Here](SocialBuzz.pptx.pptx)
 
 ## **Task - 4: Present to the Client**
 Present powerpoint presentation to the client and deliver the insights of your analysis
